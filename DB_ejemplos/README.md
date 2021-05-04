@@ -78,20 +78,23 @@ Finalmente, seleccionar la base de datos Nation y mostrar las tablas:
 ```shell
 use employees;
 show tables;
-+-------------------+
-| Tables_in_nation  |
-+-------------------+
-| continents        |
-| countries         |
-| country_languages |
-| country_stats     |
-| guests            |
-| languages         |
-| region_areas      |
-| regions           |
-| vips              |
-+-------------------+
-9 rows in set (0.01 sec)
++----------------------+
+| Tables_in_employees  |
++----------------------+
+| current_dept_emp     |
+| departments          |
+| dept_emp             |
+| dept_emp_latest_date |
+| dept_manager         |
+| employees            |
+| expected_values      |
+| found_values         |
+| salaries             |
+| tchecksum            |
+| tipo_contacto        |
+| titles               |
++----------------------+
+12 rows in set (0.01 sec)
 ```
 
 ```
