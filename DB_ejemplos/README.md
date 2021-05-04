@@ -97,5 +97,3 @@ show tables;
 12 rows in set (0.01 sec)
 ```
 
-```
-
