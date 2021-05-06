@@ -97,3 +97,6 @@ show tables;
 12 rows in set (0.01 sec)
 ```
 
+En estos links pueden consultar como restaurar una DB:
+- https://dev.mysql.com/doc/refman/8.0/en/mysql-batch-commands.html
+- https://dev.mysql.com/doc/mysql-backup-excerpt/8.0/en/reloading-sql-format-dumps.html
